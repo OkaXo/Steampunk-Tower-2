@@ -1,1 +1,3 @@
-# Steampunk Tower 2
+# Steampunk Tower 2 Patch FR
+
+  *Traduction Française...
