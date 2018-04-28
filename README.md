@@ -1,3 +1,3 @@
-# Steampunk Tower 2 Patch FR
+# Steampunk Tower 2 Patch FR - STEAM Version
 
   *Traduction Française...
